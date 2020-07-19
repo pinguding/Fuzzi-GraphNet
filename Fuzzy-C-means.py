@@ -15,7 +15,7 @@ fcm.fit(X)
 fcm_centers = fcm.centers
 fcm_labels  = fcm.u.argmax(axis = 1)
 
-for i in fcm.u : 
+for i in fcm.u :
 	print(i)
 
 f, axes = plt.subplots(1, 2, figsize=(11,5))
