@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d94634f-888f-4a67-a89d-de97c0a3fcfb" name="Default Changelist" comment="Python3 Fuzzy-C-Means Essential Test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1etmSLK8tlw6r4CbVc3TjAOnQtC" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RSettingsProjectConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="Fuzzi-GraphNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fuzzy-C-means.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d94634f-888f-4a67-a89d-de97c0a3fcfb" name="Default Changelist" comment="" />
+      <created>1595149261366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595149261366</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Python3 Fuzzy-C-Means Essential Test">
+      <created>1595149422148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595149422148</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python3 Fuzzy-C-Means Essential Test">
+      <created>1595149462088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595149462088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Python3 Fuzzy-C-Means Essential Test">
+      <created>1595150007745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595150007745</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python3 Fuzzy-C-Means Essential Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python3 Fuzzy-C-Means Essential Test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="851" y="387" width="672" height="512" key="#Notifications" timestamp="1595393523125">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="851" y="387" width="672" height="512" key="#Notifications/-1920.23.1920.1057/0.23.1920.993@0.23.1920.993" timestamp="1595393523125" />
+    <state x="263" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595205352169">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="263" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.993@0.23.1920.993" timestamp="1595205352169" />
+    <state x="2183" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.983/1920.23.1920.1057@1920.23.1920.1057" timestamp="1595149585823" />
+    <state x="2506" y="232" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1595149575143">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2506" y="232" key="#com.intellij.ide.macro.MacrosDialog/0.23.1920.983/1920.23.1920.1057@1920.23.1920.1057" timestamp="1595149575143" />
+    <state x="469" y="156" key="SettingsEditor" timestamp="1595206129827">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="469" y="156" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.993@0.23.1920.993" timestamp="1595206129827" />
+    <state x="2522" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595149478880">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2522" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.983/1920.23.1920.1057@1920.23.1920.1057" timestamp="1595149478880" />
+  </component>
+</project>
